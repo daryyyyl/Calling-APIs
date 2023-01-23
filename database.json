@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "title": "Harry Potter",
+            "author": "J.K. Rowling"
+        },
+        {
+            "title": "Percy Jackson",
+            "author": "Rick Riordan"
+        }
+    ],
+    "blogs": [
+        {
+            "title": "Blog 1",
+            "description": "My Blog 1"
+        },
+        {
+            "title": "Blog 2",
+            "description": "My Blog 1"
+        }
+    ]
+}
